@@ -35,27 +35,31 @@
 	<button type="button" onclick="myFunction()">Try it</button>
 	<button type="button" onclick="myFunction2()">Try it 2</button>
 	
-	<div class="col-xs-6 col-md-3">
+	<div class="col-xs-6 col-md-12">
 		<a href="#" class="thumbnail">
 			<img src="images/logo.PNG">
 		</a>
     </div>
+
 	
 	<form>
-		<div class="form-group col-xs-6 col-md-3">
+		<h1>&nbsp;Solicitud de registro</h1>
+		
+		<div class="form-group col-xs-6 col-md-6">
+			<label for="exampleInputFile">Fotografia</label>
+			<input type="file" id="exampleInputFile">
+			<p class="help-block">Seleccione su imagen de perfil</p>
+		</div>
+		<div class="form-group col-xs-6 col-md-6">
 			<label for="exampleInputEmail1">Email address</label>
 			<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
 		</div>
-		<div class="form-group">
+		<div class="form-group col-xs-6 col-md-6">
 			<label for="exampleInputPassword1">Password</label>
 			<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
 		</div>
-		<div class="form-group">
-			<label for="exampleInputFile">File input</label>
-			<input type="file" id="exampleInputFile">
-			<p class="help-block">Example block-level help text here.</p>
-		</div>
-		<div class="checkbox">
+		
+		<div class="checkbox col-xs-6 col-md-6">
 			<label>
 				<input type="checkbox"> Check me out
 			</label>
