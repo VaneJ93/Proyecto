@@ -14,14 +14,14 @@ Public Class inicio_de_seccion
             MsgBox("Ingrese un usuario y una contraseña correctos")
         Else
             MsgBox("Inicio exitoso")
-
+            Response.Redirect("mi_cuenta.aspx")
         End If
         
 
     End Sub
 
     Protected Sub LinkButton1_Click(sender As Object, e As EventArgs) Handles LinkButton1.Click
-        Solicitud_Registro ventana
+        Response.Redirect("Solicitud_Registro.aspx")
 
     End Sub
 End Class

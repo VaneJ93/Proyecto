@@ -217,6 +217,7 @@
     <Content Include="Images\orderedList8.png" />
     <Content Include="Images\orderedList9.png" />
     <Content Include="inicio_de_sesion.aspx" />
+    <Content Include="mi_cuenta.aspx" />
     <Content Include="packages.config" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
     <Content Include="Scripts\jquery-1.7.1.js" />
@@ -270,6 +271,13 @@
     </Compile>
     <Compile Include="inicio_de_sesion.aspx.vb">
       <DependentUpon>inicio_de_sesion.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="mi_cuenta.aspx.designer.vb">
+      <DependentUpon>mi_cuenta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mi_cuenta.aspx.vb">
+      <DependentUpon>mi_cuenta.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
