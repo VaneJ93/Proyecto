@@ -6,15 +6,15 @@
     End Sub
 
     Protected Sub linkNotificaciones_Click(sender As Object, e As EventArgs) Handles linkNotificaciones.Click
-        Response.Redirect("Notificaciones.aspx")
+        Response.Redirect("Notificaciones_entrenador.aspx")
     End Sub
 
     Protected Sub linkAtletas_Click(sender As Object, e As EventArgs) Handles linkAtletas.Click
-        Response.Redirect("Atletas.aspx")
+        Response.Redirect("Atletas_entrenador.aspx")
     End Sub
 
     Protected Sub linkMiCuenta_Click(sender As Object, e As EventArgs) Handles linkMiCuenta.Click
-        Response.Redirect("mi_cuenta.aspx")
+        Response.Redirect("mi_cuenta_entrenador.aspx")
     End Sub
 
     Protected Sub linkSalir_Click(sender As Object, e As EventArgs) Handles linkSalir.Click
@@ -22,14 +22,14 @@
     End Sub
 
     Protected Sub linkEquipos_Click(sender As Object, e As EventArgs) Handles linkEquipos.Click
-        Response.Redirect("Equipos.aspx")
+        Response.Redirect("Equipos_entrenador.aspx")
     End Sub
 
     Protected Sub linkEstadisticas_Click(sender As Object, e As EventArgs) Handles linkEstadisticas.Click
-        Response.Redirect("Estadisticas.aspx")
+        Response.Redirect("Estadisticas_entrenador.aspx")
     End Sub
 
     Protected Sub linkContactarAdministrador_Click(sender As Object, e As EventArgs) Handles linkContactarAdministrador.Click
-        Response.Redirect("contactarAdministrador.aspx")
+        Response.Redirect("contactarAdministrador_entrenador.aspx")
     End Sub
 End Class

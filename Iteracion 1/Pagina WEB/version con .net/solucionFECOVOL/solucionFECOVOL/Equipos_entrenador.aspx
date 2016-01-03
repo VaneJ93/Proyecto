@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Notificaciones.aspx.vb" Inherits="solucionFECOVOL.Notificaciones" %>
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Equipos_entrenador.aspx.vb" Inherits="solucionFECOVOL.Equipos" %>
 
 <!DOCTYPE html>
 
@@ -22,15 +22,23 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:LinkButton ID="linkAtletas" runat="server" Font-Names="Arial" Font-Size="Medium" Font-Underline="False" ForeColor="Black">Atletas</asp:LinkButton>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:LinkButton ID="linkEquipos" runat="server" Font-Names="Arial" Font-Size="Medium" Font-Underline="False" ForeColor="Black">Equipos</asp:LinkButton>
+        <asp:LinkButton ID="linkEquipos" runat="server" Font-Names="Arial" Font-Size="Medium" Font-Underline="True" ForeColor="Black">Equipos</asp:LinkButton>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:LinkButton ID="linkEstadisticas" runat="server" Font-Names="Arial" Font-Size="Medium" Font-Underline="False" ForeColor="Black">Estadisticas</asp:LinkButton>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:LinkButton ID="linkContactarAdministrador" runat="server" Font-Names="Arial" Font-Size="Medium" Font-Underline="False" ForeColor="Black">Contactar administrador</asp:LinkButton>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:LinkButton ID="linkNotificaciones" runat="server" Font-Names="Arial" Font-Size="Medium" Font-Underline="True" ForeColor="Black">Notificaciones</asp:LinkButton>
+        <asp:LinkButton ID="linkNotificaciones" runat="server" Font-Names="Arial" Font-Size="Medium" Font-Underline="False" ForeColor="Black">Notificaciones</asp:LinkButton>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:LinkButton ID="linkSalir" runat="server" Font-Names="Arial" Font-Size="Medium" Font-Underline="False" ForeColor="Black">Salir</asp:LinkButton>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
     
     </div>
     </form>

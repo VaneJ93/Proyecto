@@ -13,8 +13,14 @@ Public Class inicio_de_seccion
         If txtUsuario.Text = "" Or txtContraseña.Text = "" Then
             MsgBox("Ingrese un usuario y una contraseña correctos")
         Else
-            MsgBox("Inicio exitoso")
-            Response.Redirect("mi_cuenta.aspx")
+            MsgBox("Inicio exitoso como entrenador")
+            Response.Redirect("mi_cuenta_entrenador.aspx")
+            '--------------------------------------------------
+            'MsgBox("Inicio exitoso como administrador")
+            'Response.Redirect("mi_cuenta_administrador.aspx")
+            '---------------------------------------------------
+            'MsgBox("Inicio exitoso como asistente")
+            'Response.Redirect("mi_cuenta_asistente.aspx")
         End If
         
 

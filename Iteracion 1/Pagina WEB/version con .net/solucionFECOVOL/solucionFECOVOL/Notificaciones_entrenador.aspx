@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="contactarAdministrador.aspx.vb" Inherits="solucionFECOVOL.contactarAdministrador" %>
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Notificaciones_entrenador.aspx.vb" Inherits="solucionFECOVOL.Notificaciones" %>
 
 <!DOCTYPE html>
 
@@ -26,9 +26,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:LinkButton ID="linkEstadisticas" runat="server" Font-Names="Arial" Font-Size="Medium" Font-Underline="False" ForeColor="Black">Estadisticas</asp:LinkButton>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:LinkButton ID="linkContactarAdministrador" runat="server" Font-Names="Arial" Font-Size="Medium" Font-Underline="True" ForeColor="Black">Contactar administrador</asp:LinkButton>
+        <asp:LinkButton ID="linkContactarAdministrador" runat="server" Font-Names="Arial" Font-Size="Medium" Font-Underline="False" ForeColor="Black">Contactar administrador</asp:LinkButton>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:LinkButton ID="linkNotificaciones" runat="server" Font-Names="Arial" Font-Size="Medium" Font-Underline="False" ForeColor="Black">Notificaciones</asp:LinkButton>
+        <asp:LinkButton ID="linkNotificaciones" runat="server" Font-Names="Arial" Font-Size="Medium" Font-Underline="True" ForeColor="Black">Notificaciones</asp:LinkButton>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:LinkButton ID="linkSalir" runat="server" Font-Names="Arial" Font-Size="Medium" Font-Underline="False" ForeColor="Black">Salir</asp:LinkButton>
     

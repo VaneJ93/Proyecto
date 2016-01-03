@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="mi_cuenta.aspx.vb" Inherits="solucionFECOVOL.mi_cuenta" %>
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="mi_cuenta_entrenador.aspx.vb" Inherits="solucionFECOVOL.mi_cuenta" %>
 
 <!DOCTYPE html>
 

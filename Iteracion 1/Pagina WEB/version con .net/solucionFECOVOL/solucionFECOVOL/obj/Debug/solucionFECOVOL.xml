@@ -6,7 +6,7 @@ solucionFECOVOL
 </name>
 </assembly>
 <members>
-<member name="F:solucionFECOVOL.Notificaciones.form1">
+<member name="F:solucionFECOVOL.Atletas.form1">
 	<summary>
 Control form1.
 </summary>
@@ -14,7 +14,7 @@ Control form1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Notificaciones.Panel1">
+</member><member name="F:solucionFECOVOL.Atletas.Panel1">
 	<summary>
 Control Panel1.
 </summary>
@@ -22,7 +22,7 @@ Control Panel1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Notificaciones.linkMiCuenta">
+</member><member name="F:solucionFECOVOL.Atletas.linkMiCuenta">
 	<summary>
 Control linkMiCuenta.
 </summary>
@@ -30,7 +30,7 @@ Control linkMiCuenta.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Notificaciones.linkAtletas">
+</member><member name="F:solucionFECOVOL.Atletas.linkAtletas">
 	<summary>
 Control linkAtletas.
 </summary>
@@ -38,7 +38,7 @@ Control linkAtletas.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Notificaciones.linkEquipos">
+</member><member name="F:solucionFECOVOL.Atletas.linkEquipos">
 	<summary>
 Control linkEquipos.
 </summary>
@@ -46,7 +46,7 @@ Control linkEquipos.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Notificaciones.linkEstadisticas">
+</member><member name="F:solucionFECOVOL.Atletas.linkEstadisticas">
 	<summary>
 Control linkEstadisticas.
 </summary>
@@ -54,7 +54,7 @@ Control linkEstadisticas.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Notificaciones.linkContactarAdministrador">
+</member><member name="F:solucionFECOVOL.Atletas.linkContactarAdministrador">
 	<summary>
 Control linkContactarAdministrador.
 </summary>
@@ -62,7 +62,7 @@ Control linkContactarAdministrador.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Notificaciones.linkNotificaciones">
+</member><member name="F:solucionFECOVOL.Atletas.linkNotificaciones">
 	<summary>
 Control linkNotificaciones.
 </summary>
@@ -70,7 +70,7 @@ Control linkNotificaciones.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Notificaciones.linkSalir">
+</member><member name="F:solucionFECOVOL.Atletas.linkSalir">
 	<summary>
 Control linkSalir.
 </summary>
@@ -150,78 +150,6 @@ Control linkSalir.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Estadisticas.form1">
-	<summary>
-Control form1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:solucionFECOVOL.Estadisticas.Panel1">
-	<summary>
-Control Panel1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:solucionFECOVOL.Estadisticas.linkMiCuenta">
-	<summary>
-Control linkMiCuenta.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:solucionFECOVOL.Estadisticas.linkAtletas">
-	<summary>
-Control linkAtletas.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:solucionFECOVOL.Estadisticas.linkEquipos">
-	<summary>
-Control linkEquipos.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:solucionFECOVOL.Estadisticas.linkEstadisticas">
-	<summary>
-Control linkEstadisticas.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:solucionFECOVOL.Estadisticas.linkContactarAdministrador">
-	<summary>
-Control linkContactarAdministrador.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:solucionFECOVOL.Estadisticas.linkNotificaciones">
-	<summary>
-Control linkNotificaciones.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:solucionFECOVOL.Estadisticas.linkSalir">
-	<summary>
-Control linkSalir.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
 </member><member name="F:solucionFECOVOL.Equipos.form1">
 	<summary>
 Control form1.
@@ -294,7 +222,7 @@ Control linkSalir.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Atletas.form1">
+</member><member name="F:solucionFECOVOL.Estadisticas.form1">
 	<summary>
 Control form1.
 </summary>
@@ -302,7 +230,7 @@ Control form1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Atletas.Panel1">
+</member><member name="F:solucionFECOVOL.Estadisticas.Panel1">
 	<summary>
 Control Panel1.
 </summary>
@@ -310,7 +238,7 @@ Control Panel1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Atletas.linkMiCuenta">
+</member><member name="F:solucionFECOVOL.Estadisticas.linkMiCuenta">
 	<summary>
 Control linkMiCuenta.
 </summary>
@@ -318,7 +246,7 @@ Control linkMiCuenta.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Atletas.linkAtletas">
+</member><member name="F:solucionFECOVOL.Estadisticas.linkAtletas">
 	<summary>
 Control linkAtletas.
 </summary>
@@ -326,7 +254,7 @@ Control linkAtletas.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Atletas.linkEquipos">
+</member><member name="F:solucionFECOVOL.Estadisticas.linkEquipos">
 	<summary>
 Control linkEquipos.
 </summary>
@@ -334,7 +262,7 @@ Control linkEquipos.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Atletas.linkEstadisticas">
+</member><member name="F:solucionFECOVOL.Estadisticas.linkEstadisticas">
 	<summary>
 Control linkEstadisticas.
 </summary>
@@ -342,7 +270,7 @@ Control linkEstadisticas.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Atletas.linkContactarAdministrador">
+</member><member name="F:solucionFECOVOL.Estadisticas.linkContactarAdministrador">
 	<summary>
 Control linkContactarAdministrador.
 </summary>
@@ -350,7 +278,7 @@ Control linkContactarAdministrador.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Atletas.linkNotificaciones">
+</member><member name="F:solucionFECOVOL.Estadisticas.linkNotificaciones">
 	<summary>
 Control linkNotificaciones.
 </summary>
@@ -358,7 +286,79 @@ Control linkNotificaciones.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:solucionFECOVOL.Atletas.linkSalir">
+</member><member name="F:solucionFECOVOL.Estadisticas.linkSalir">
+	<summary>
+Control linkSalir.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:solucionFECOVOL.Notificaciones.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:solucionFECOVOL.Notificaciones.Panel1">
+	<summary>
+Control Panel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:solucionFECOVOL.Notificaciones.linkMiCuenta">
+	<summary>
+Control linkMiCuenta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:solucionFECOVOL.Notificaciones.linkAtletas">
+	<summary>
+Control linkAtletas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:solucionFECOVOL.Notificaciones.linkEquipos">
+	<summary>
+Control linkEquipos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:solucionFECOVOL.Notificaciones.linkEstadisticas">
+	<summary>
+Control linkEstadisticas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:solucionFECOVOL.Notificaciones.linkContactarAdministrador">
+	<summary>
+Control linkContactarAdministrador.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:solucionFECOVOL.Notificaciones.linkNotificaciones">
+	<summary>
+Control linkNotificaciones.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:solucionFECOVOL.Notificaciones.linkSalir">
 	<summary>
 Control linkSalir.
 </summary>

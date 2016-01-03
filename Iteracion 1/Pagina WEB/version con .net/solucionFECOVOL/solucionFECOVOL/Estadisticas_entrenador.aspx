@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Estadisticas.aspx.vb" Inherits="solucionFECOVOL.Estadisticas" %>
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Estadisticas_entrenador.aspx.vb" Inherits="solucionFECOVOL.Estadisticas" %>
 
 <!DOCTYPE html>
 

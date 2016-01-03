@@ -148,8 +148,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Account\OpenAuthProviders.ascx" />
-    <Content Include="Atletas.aspx" />
-    <Content Include="contactarAdministrador.aspx" />
+    <Content Include="Atletas_entrenador.aspx" />
+    <Content Include="contactarAdministrador_entrenador.aspx" />
     <Content Include="Content\Site.css" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
@@ -205,8 +205,8 @@
     <Content Include="Content\themes\base\minified\jquery.ui.slider.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
-    <Content Include="Equipos.aspx" />
-    <Content Include="Estadisticas.aspx" />
+    <Content Include="Equipos_entrenador.aspx" />
+    <Content Include="Estadisticas_entrenador.aspx" />
     <Content Include="Images\accent.png" />
     <Content Include="Images\bullet.png" />
     <Content Include="Images\heroAccent.png" />
@@ -221,8 +221,8 @@
     <Content Include="Images\orderedList8.png" />
     <Content Include="Images\orderedList9.png" />
     <Content Include="inicio_de_sesion.aspx" />
-    <Content Include="mi_cuenta.aspx" />
-    <Content Include="Notificaciones.aspx" />
+    <Content Include="mi_cuenta_entrenador.aspx" />
+    <Content Include="Notificaciones_entrenador.aspx" />
     <Content Include="packages.config" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
     <Content Include="Scripts\jquery-1.7.1.js" />
@@ -268,32 +268,32 @@
     <Compile Include="Account\OpenAuthProviders.ascx.designer.vb">
       <DependentUpon>OpenAuthProviders.ascx</DependentUpon>
     </Compile>
-    <Compile Include="Atletas.aspx.designer.vb">
-      <DependentUpon>Atletas.aspx</DependentUpon>
+    <Compile Include="Atletas_entrenador.aspx.designer.vb">
+      <DependentUpon>Atletas_entrenador.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Atletas.aspx.vb">
-      <DependentUpon>Atletas.aspx</DependentUpon>
+    <Compile Include="Atletas_entrenador.aspx.vb">
+      <DependentUpon>Atletas_entrenador.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
-    <Compile Include="contactarAdministrador.aspx.designer.vb">
-      <DependentUpon>contactarAdministrador.aspx</DependentUpon>
+    <Compile Include="contactarAdministrador_entrenador.aspx.designer.vb">
+      <DependentUpon>contactarAdministrador_entrenador.aspx</DependentUpon>
     </Compile>
-    <Compile Include="contactarAdministrador.aspx.vb">
-      <DependentUpon>contactarAdministrador.aspx</DependentUpon>
+    <Compile Include="contactarAdministrador_entrenador.aspx.vb">
+      <DependentUpon>contactarAdministrador_entrenador.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
-    <Compile Include="Equipos.aspx.designer.vb">
-      <DependentUpon>Equipos.aspx</DependentUpon>
+    <Compile Include="Equipos_entrenador.aspx.designer.vb">
+      <DependentUpon>Equipos_entrenador.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Equipos.aspx.vb">
-      <DependentUpon>Equipos.aspx</DependentUpon>
+    <Compile Include="Equipos_entrenador.aspx.vb">
+      <DependentUpon>Equipos_entrenador.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
-    <Compile Include="Estadisticas.aspx.designer.vb">
-      <DependentUpon>Estadisticas.aspx</DependentUpon>
+    <Compile Include="Estadisticas_entrenador.aspx.designer.vb">
+      <DependentUpon>Estadisticas_entrenador.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Estadisticas.aspx.vb">
-      <DependentUpon>Estadisticas.aspx</DependentUpon>
+    <Compile Include="Estadisticas_entrenador.aspx.vb">
+      <DependentUpon>Estadisticas_entrenador.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Global.asax.vb">
@@ -306,11 +306,11 @@
       <DependentUpon>inicio_de_sesion.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
-    <Compile Include="mi_cuenta.aspx.designer.vb">
-      <DependentUpon>mi_cuenta.aspx</DependentUpon>
+    <Compile Include="mi_cuenta_entrenador.aspx.designer.vb">
+      <DependentUpon>mi_cuenta_entrenador.aspx</DependentUpon>
     </Compile>
-    <Compile Include="mi_cuenta.aspx.vb">
-      <DependentUpon>mi_cuenta.aspx</DependentUpon>
+    <Compile Include="mi_cuenta_entrenador.aspx.vb">
+      <DependentUpon>mi_cuenta_entrenador.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -332,11 +332,11 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="Notificaciones.aspx.designer.vb">
-      <DependentUpon>Notificaciones.aspx</DependentUpon>
+    <Compile Include="Notificaciones_entrenador.aspx.designer.vb">
+      <DependentUpon>Notificaciones_entrenador.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Notificaciones.aspx.vb">
-      <DependentUpon>Notificaciones.aspx</DependentUpon>
+    <Compile Include="Notificaciones_entrenador.aspx.vb">
+      <DependentUpon>Notificaciones_entrenador.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Site.Master.designer.vb">
