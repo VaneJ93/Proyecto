@@ -166,6 +166,14 @@ Control txtAsunto.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
+</member><member name="F:solucionFECOVOL.contactarAdministrador.txtMensaje">
+	<summary>
+Control txtMensaje.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
 </member><member name="F:solucionFECOVOL.contactarAdministrador.Button1">
 	<summary>
 Control Button1.
@@ -385,6 +393,30 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 </member><member name="F:solucionFECOVOL.Notificaciones.linkSalir">
 	<summary>
 Control linkSalir.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:solucionFECOVOL.Notificaciones.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:solucionFECOVOL.Notificaciones.ListNotificaciones">
+	<summary>
+Control ListNotificaciones.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:solucionFECOVOL.Notificaciones.Button1">
+	<summary>
+Control Button1.
 </summary>
 	<remarks>
 Campo generado automáticamente.

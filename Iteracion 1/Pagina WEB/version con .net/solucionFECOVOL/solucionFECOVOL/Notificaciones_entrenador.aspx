@@ -31,6 +31,35 @@
         <asp:LinkButton ID="linkNotificaciones" runat="server" Font-Names="Arial" Font-Size="Medium" Font-Underline="True" ForeColor="Black">Notificaciones</asp:LinkButton>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:LinkButton ID="linkSalir" runat="server" Font-Names="Arial" Font-Size="Medium" Font-Underline="False" ForeColor="Black">Salir</asp:LinkButton>
+        <br />
+        <br />
+        <br />
+&nbsp;&nbsp;
+        <asp:Label ID="Label1" runat="server" Font-Names="Arial" Font-Size="X-Large" Text="Mis notificaciones"></asp:Label>
+        <br />
+        <br />
+        <asp:Panel ID="Panel2" runat="server" Height="457px">
+            <asp:Panel ID="Panel3" runat="server" Height="453px" Width="270px">
+                <asp:Panel ID="Panel4" runat="server" Height="451px" style="margin-left: 274px" Width="623px">
+                </asp:Panel>
+            </asp:Panel>
+        </asp:Panel>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+&nbsp;
+        <asp:ListBox ID="ListNotificaciones" runat="server" Height="225px" Width="186px"></asp:ListBox>
+        <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:Button ID="btnConsultar" runat="server" Text="Consultar" Width="85px" />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
     
     </div>
     </form>
