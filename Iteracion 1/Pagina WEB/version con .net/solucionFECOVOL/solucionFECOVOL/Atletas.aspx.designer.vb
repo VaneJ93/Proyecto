@@ -11,7 +11,7 @@ Option Strict On
 Option Explicit On
 
 
-Partial Public Class mi_cuenta
+Partial Public Class Atletas
 
     '''<summary>
     '''Control form1.
@@ -30,15 +30,6 @@ Partial Public Class mi_cuenta
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
     Protected WithEvents Panel1 As Global.System.Web.UI.WebControls.Panel
-
-    '''<summary>
-    '''Control Panel2.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents Panel2 As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
     '''Control linkMiCuenta.
