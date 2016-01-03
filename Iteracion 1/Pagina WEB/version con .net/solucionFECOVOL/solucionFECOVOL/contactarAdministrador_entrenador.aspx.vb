@@ -2,7 +2,7 @@
     Inherits System.Web.UI.Page
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-
+        txtAsunto.Attributes.Add("placeholder", "Asunto")
     End Sub
 
     Protected Sub linkMiCuenta_Click(sender As Object, e As EventArgs) Handles linkMiCuenta.Click
@@ -31,5 +31,19 @@
 
     Protected Sub linkNotificaciones_Click(sender As Object, e As EventArgs) Handles linkNotificaciones.Click
         Response.Redirect("Notificaciones_entrenador.aspx")
+    End Sub
+
+    Protected Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        If txtMensaje.Text = "" Or txtAsunto.Text = "" Then
+            MsgBox("Llene en campo con el mensaje y el asunto del mensaje que se va a enviar")
+        Else
+            MsgBox("Una notificacion se han enviado a los administradores del sistema")
+            txtAsunto.Text = ""
+            txtMensaje.Text = ""
+        End If
+
+
+
+
     End Sub
 End Class
